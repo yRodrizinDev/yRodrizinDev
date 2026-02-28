@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou Rodrigo Santos
+# 👋 Olá, eu sou Rodrigo Abreu
 
 🎓 Estudante de Engenharia de Software  
 🚀 Buscando primeira oportunidade como Desenvolvedor
